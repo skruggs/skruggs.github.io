@@ -4,7 +4,7 @@ This is my home page! My name is Sarah Ruggles and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/skruggs.
+My GitHub page is https://github.com/skruggs.
 
 ### CPSC 120
 
